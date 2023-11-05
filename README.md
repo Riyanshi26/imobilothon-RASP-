@@ -7,8 +7,8 @@ Our submission consists of a prototype of our proposed app solution. The app is 
 To run this app:
 1. Fork this repository and create a offline copy of it.
 2. Next change our directory to inside our project folder.
-3. Run __npx install__ to all the neccessary dependencies.
-4. To run the app use the command : __npx expo start__
-5. For viewing the app you would require an Android device with __Expo Go__ app installed on it.
-6. After the project runs you would see a __QR code__ on the terminal which can be scanned to get access to the app in your device through scanning.
+3. Run ___npx install___ to all the neccessary dependencies.
+4. To run the app use the command : ___npx expo start___
+5. For viewing the app you would require an Android device with ___Expo Go___ app installed on it.
+6. After the project runs you would see a ___QR code___ on the terminal which can be scanned to get access to the app in your device through scanning.
 7. Else manual connection steps are given in the terminal.
