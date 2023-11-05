@@ -12,5 +12,4 @@ To run this app:
 5. For viewing the app you would require an Android device with ___Expo Go___ app installed on it.
 6. After the project runs you would see a ___QR code___ on the terminal which can be scanned to get access to the app in your device through scanning.
 7. Else manual connection steps are given in the terminal.
-8. You do not need to sign in using any account or credentials in the sign up or login page you can directly bypass the page to move ahead in the app.
-9. 
+8. You do not need to sign in using any account or credentials in the sign up or login page you can directly bypass the page to move ahead in the app. 
