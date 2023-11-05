@@ -20,7 +20,7 @@ const Welcome = ({ navigation }) => {
                         fontSize: 50,
                         fontWeight: 800,
                         color: COLORS.white
-                    }}>Volkswagon</Text>
+                    }}>Volkswagen</Text>
                     <Text style={{
                         fontSize: 46,
                         fontWeight: 800,
