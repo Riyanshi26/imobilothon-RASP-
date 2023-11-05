@@ -15,3 +15,4 @@ To run this app:
 7. Else manual connection steps are given in the terminal.
 8. You do not need to sign in using any account or credentials in the sign up or login page you can directly bypass the page to move ahead in the app.
 
+"group_sample.ino" , "two_car_sample.ino" : The 2 files are samples of how we can do voice communication in Arduino.
